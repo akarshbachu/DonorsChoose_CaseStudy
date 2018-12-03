@@ -1,2 +1,27 @@
-# DonorsChoose_CaseStudy
+# Donors Choose Application Screening
 Its a Classification problem, Where we need to classify if the Project proposal can be Approved or not.
+# Introduction
+#### About DonorsChoose:<br>
+
+Founded in 2000 by a high school teacher in the Bronx, DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. At any given time, there are thousands of classroom requests that can be brought to life with a gift of any amount.
+
+#### Their Mission:<br>
+
+They make it easy for anyone to help a classroom in need, moving them closer to a nation where students in every community have the tools and experiences they need for a great education.
+
+#### Objective:<br>
+
+The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
+
+# About Data
+The dataset contains information from teachers' project applications to DonorsChoose.org including teacher attributes, school attributes, and the project proposals including application essays.
+
+#### Files:<br>
+Data is provided in Two Files:<br>
+<ul>
+    <li>train.csv - the training set</li>
+    <li>resources.csv - resources requested by each proposal; joins with train.csv on id</li>
+</ul>
+
+
+Note: Work in Progress.
