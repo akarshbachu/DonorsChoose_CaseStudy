@@ -24,4 +24,24 @@ Data is provided in Two Files:<br>
 </ul>
 
 
+
+# About Code
+
+## Data Science
+Tried to get some insights of data and Visualized.
+
+Note: Primary focus of this Case Study is getting Good AUC, so focused on Machine Learning part than Data Science part.
+
+## Machine Learning Models Used
+I have used Two models:
+<ul>
+    <li>Light GBM with GBDT - LogLoss</li>
+    <li>XGBoost with LogLoss</li>
+</ul>
+
+Validation Metric Used: AUC
+
+#### Best AUC achieved so far is 0.74 i.e 74% with Light GBM, Check the code in iPython Notebook.
+
+
 Note: Work in Progress.
