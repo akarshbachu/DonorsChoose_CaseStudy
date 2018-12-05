@@ -28,7 +28,7 @@ Tried to get some insights of data and Visualized.
 
 Note: Primary focus of this Case Study is getting Good AUC, so focused on Machine Learning part than Data Science part.
 
-## Machine Learning Models Used
+## Machine Learning
 I have used Two models:
 <ul>
     <li>Light GBM with GBDT - LogLoss</li>
